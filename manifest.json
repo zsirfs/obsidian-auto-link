@@ -1,10 +1,10 @@
 {
-  "id": "obsidian-auto-link-title",
-  "name": "Auto Link Title",
-  "version": "1.2.5",
+  "id": "obsidian-auto-link",
+  "name": "Auto Link",
+  "version": "1.0.1",
   "minAppVersion": "0.12.17",
-  "description": "This plugin automatically fetches the titles of links from the web",
-  "author": "Matt Furden",
-  "authorUrl": "https://github.com/zolrath",
+  "description": "This plugin automatically fetches the website of links from the web",
+  "author": "archie",
+  "authorUrl": "https://github.com/zsirfs",
   "isDesktopOnly": false
 }
