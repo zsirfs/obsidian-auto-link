@@ -1,7 +1,7 @@
 {
   "name": "obsidian-auto-link",
   "version": "1.0.1",
-  "description": "Automatically fetches the titles of links from the web and formats link when pasted",
+  "description": "Automatically fetches the website of links from the web and formats link when pasted",
   "main": "main.js",
   "scripts": {
     "dev": "rollup --config rollup.config.js -w",
